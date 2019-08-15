@@ -1,1 +1,3 @@
-# nmp-python-pandas-parks-20190815
+# Python, Pandas, and Parks. Oh my!
+
+Repo for presentation to NewMapsPlus MAP674 class on 8/15/2019.
