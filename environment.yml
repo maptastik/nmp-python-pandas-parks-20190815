@@ -1,0 +1,21 @@
+name: nmp_python_pandas_parks_20190815
+channels:
+  - udst
+  - conda-forge
+  - patrikhlobil
+  - defaults
+dependencies:
+  - contextily
+  - descartes
+  - folium
+  - geopandas
+  - geoplot
+  - ipython
+  - ipywidgets
+  - jupyterlab
+  - numpy
+  - osmnx
+  - pandas
+  - pandas-bokeh
+  - requests
+  - python=3.7
